@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Archivos de configuración de IDEs (opcional)
+.vscode/
+.idea/
+
+# Variables de entorno/secretos
+.env
